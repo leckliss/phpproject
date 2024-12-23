@@ -1,0 +1,22 @@
+body{
+  font-family: 'Arial', sans-serif;
+  background-color: teal ;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+label{
+  display: flex;
+  justify-content: left;
+  align-items: center;  
+}
+input{
+  border-radius: 30vh;
+  height: auto;
+}
+.botaoEntrar{
+  border-radius: 10vh;
+}
